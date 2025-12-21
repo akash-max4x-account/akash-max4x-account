@@ -1,13 +1,12 @@
 # Hi 👋, I'm AKASH HASAN
 
-![Header Banner](https://github.com/akash-max4x-account/akash-max4x-account/blob/main/banner.png?raw=true)
+![Header Banner](https://i.postimg.cc/DwBG9mMG/image-search-1766316260438.gif)
 
 ### 👨‍💻 About Me
-I'm a passionate developer who loves working on web development, open source projects, and learning new technologies. Currently focusing on [your current work/study, e.g., full-stack development, AI, etc.].
+I'm a passionate developer who loves working on web development, open source projects, and learning new technologies. Currently focusing on full-stack development and mobile apps.
 
 ### 🛠️ Tech Stack / Skills
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,git,github,python,java&perline=8" />
-
+<img src="https://skillicons.dev/icons?i=html,css,js,php,python,kotlin,cpp&perline=8" />
 
 ### 📊 GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=akash-max4x-account&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
@@ -17,13 +16,13 @@ I'm a passionate developer who loves working on web development, open source pro
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-max4x-account&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 
 ### 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/[your-linkedin-username])
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/[your-twitter-handle])
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge)](https://your-portfolio-link.com)
+[![Facebook](https://img.shields.io/badge/Facebook-Connect-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/akash.black.hacker.bd)
+[![Telegram](https://img.shields.io/badge/Telegram-Chat-blue?style=for-the-badge&logo=telegram)](https://t.me/akash_black_fox)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:akash.max4x@gmail.com)
 
 ### ⚡ Fun Fact
 I can't code without coffee! ☕
 
-<img src="https://komarev.com/ghpvc/?username=[your-username]&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=akash-max4x-account&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views" />
 
 Thanks for visiting! 🚀
