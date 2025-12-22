@@ -24,5 +24,3 @@ I'm a passionate developer who loves working on web development, open source pro
 I can't code without coffee! ☕
 
 <img src="https://komarev.com/ghpvc/?username=akash-max4x-account&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views" />
-
-Thanks for visiting! 🚀
