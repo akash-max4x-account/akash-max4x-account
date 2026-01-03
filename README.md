@@ -8,13 +8,6 @@ I'm a passionate developer who loves working on web development, open source pro
 ### 🛠️ Tech Stack / Skills
 <img src="https://skillicons.dev/icons?i=html,css,js,php,python,kotlin,cpp&perline=8" />
 
-### 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=akash-max4x-account&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akash-max4x-account&theme=dark&hide_border=true" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-max4x-account&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-
 ### 🔗 Connect With Me
 [![Facebook](https://img.shields.io/badge/Facebook-Connect-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/akash.black.hacker.bd)
 [![Telegram](https://img.shields.io/badge/Telegram-Chat-blue?style=for-the-badge&logo=telegram)](https://t.me/akash_black_fox)
